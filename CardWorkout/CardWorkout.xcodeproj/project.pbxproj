@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A21D58B2988000200B6A5A1 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A21D58A2988000200B6A5A1 /* Card.swift */; };
 		3A5183D02985423500E3D0D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5183CF2985423500E3D0D5 /* AppDelegate.swift */; };
 		3A5183D22985423500E3D0D5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5183D12985423500E3D0D5 /* SceneDelegate.swift */; };
 		3A5183D72985423500E3D0D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5183D52985423500E3D0D5 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A21D58A2988000200B6A5A1 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		3A5183CC2985423500E3D0D5 /* CardWorkout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardWorkout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A5183CF2985423500E3D0D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3A5183D12985423500E3D0D5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3A5183CF2985423500E3D0D5 /* AppDelegate.swift */,
 				3A5183D12985423500E3D0D5 /* SceneDelegate.swift */,
 				3A5183E3298542BB00E3D0D5 /* CardSelectionVC.swift */,
+				3A21D58A2988000200B6A5A1 /* Card.swift */,
 				3A5183D52985423500E3D0D5 /* Main.storyboard */,
 				3A5183D82985423700E3D0D5 /* Assets.xcassets */,
 				3A5183DA2985423700E3D0D5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				3A5183D02985423500E3D0D5 /* AppDelegate.swift in Sources */,
 				3A5183D22985423500E3D0D5 /* SceneDelegate.swift in Sources */,
 				3A5183E4298542BB00E3D0D5 /* CardSelectionVC.swift in Sources */,
+				3A21D58B2988000200B6A5A1 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
